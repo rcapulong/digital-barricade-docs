@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+![image](https://github.com/rcapulong/digital-barricade-user-manual/assets/13831756/c257c40a-0a4a-4f5e-a6ca-90b38978ca8f)
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
