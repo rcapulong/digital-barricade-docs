@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 2
 ---
 ![image](https://github.com/rcapulong/digital-barricade-user-manual/assets/13831756/c257c40a-0a4a-4f5e-a6ca-90b38978ca8f)
 
