@@ -6,3 +6,8 @@ url: https://user-manual.digitalbarricade.com
 
 aux_links:
   Go to Site: https://access.digitalbarricade.com
+
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
